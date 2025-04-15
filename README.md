@@ -31,10 +31,10 @@ Bu script, yerel ağda Bettercap aracı ile otomatik MITM (Man-in-the-Middle) sa
 ----------------------------------------
 
 1. Script’e çalıştırma izni ver:
-   chmod +x mitm_script.sh
+   chmod +x mitm.sh
 
 2. Script’i başlat:
-   ./mitm_script.sh
+   ./mitm.sh
 
 3. Script çalıştığında:
    - Ağ arayüzünüz otomatik algılanır.
